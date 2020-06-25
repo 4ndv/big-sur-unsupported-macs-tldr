@@ -8,7 +8,9 @@ Follow this guide: https://forums.macrumors.com/threads/macos-11-big-sur-on-unsu
 
 ### If it returns "failed with 66" error:
 
-Then the process is more complicated, follow this guide: https://medium.com/@andv/making-wifi-on-big-sur-unsupported-macs-with-failed-with-66-error-36c98e3f7965
+First, make root writable by following the guide from "[Common Issues -> mount /: failed with 66](common_issues/mount_failed_with_66.md)", then follow this guide:
+
+Follow this guide: https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/page-23?post=28599729#post-28599729
 
 ### Wifi Adapters
 
