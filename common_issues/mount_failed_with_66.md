@@ -2,6 +2,6 @@
 
 This is because Big Sur boots off snapshot, instead of directly booting from the disk.
 
-If you trying to make wifi work, follow the ["Wifi not work"](common_issues/wifi.md) page.
+Here's ASentientBot's solution for this problem:
 
-You can read more information about this issue here: https://egpu.io/forums/mac-setup/macos-up-to-11/
+https://forums.macrumors.com/threads/macos-11-big-sur-on-unsupported-macs-thread.2242172/post-28603788
